@@ -7,3 +7,7 @@
   <source src="./asivoy.mp4" type="video/mp4">
 </video>
 ![Alt Text](./subaru.gif)
+![Alt Text](./kirk.webp)
+![Alt Text](./twins.webp)
+![Alt Text](./smile.webp)
+![Alt Text](./femboykirk.webp)
