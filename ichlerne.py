@@ -1,0 +1,3 @@
+HelloWorld = print
+
+HelloWorld ("print")
