@@ -9,12 +9,13 @@ von Robert und Ward
 
 ---
 
-# Inhalt
+# Inhaltsverzeichnis
 
 * Was ist ein Passwort-Manager?
-* Warum braucht man einen?
+* Warum braucht man einen Passwort-Manager?
 * Welche Passwort-Manager sind am sichersten?
-- Wie benutzt man ein Passwort-Manager sicher?
+- Wie benutzt man einen Passwort-Manager sicher?
+* Wann braucht man einen Passwort-Manager?
 
 ---
 
