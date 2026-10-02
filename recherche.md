@@ -1,0 +1,6 @@
+[Wikipedia](https://wikipedia.com)
+[reddit](https://reddit.com)
+[Bundesamt für Sicherheit in der Informationstechnik](bsi.bund.de)
+[Open Web Application Security Project](owasp.org)
+[Stiftung Warentest](test.de)
+[digicourage](digitalcourage.de)
