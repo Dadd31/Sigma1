@@ -21,14 +21,7 @@ von Robert
 
 # Inhaltsverzeichnis
 
-1. Was ist ein Passwort-Manager?
-2. Warum braucht man ihn?
-3. Welche sind am sichersten?
-4. Wie benutzt man ihn richtig?
-5. Wann braucht man ihn?
-6. Welche Arten gibt es?
-7. Welchen Nutzen bringt er im Alltag?
-
+ Wir besprechen was ein Passwort-Manager ist,wie man einen benutzt und 
 ---
 
 # Was ist ein Passwort-Manager?
