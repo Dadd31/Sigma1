@@ -21,17 +21,17 @@ von Robert
 
 # Inhaltsverzeichnis
 
- Wir besprechen was ein Passwort-Manager ist,wie man einen benutzt und 
+ Wir besprechen was ein Passwort-Manager ist,wie man einen benutzt,welche es gibt und warum man ihn überhaupt braucht.
+
 ---
 
 # Was ist ein Passwort-Manager?
 
-Eine Software, die deine Passwörter und Benutzernamen speichert, verwaltet und verschlüsselt an einem zentralen Ort aufbewahrt.
-
+- Ein Programm das deine Passwörter und wichtige Dateien **Speichert**.
 - Alles liegt in einem verschlüsselten **Tresor (Vault)**
 - Gespeichert werden Zugangsdaten, Notizen, Kreditkarten und teils 2FA-Codes
 - Entsperrt wird der Tresor mit **einem** Master-Passwort
-- Mit eingebautem Passwort-Generator und Auto-Ausfüllen
+- Mit eingebautem **Passwort-Generator** und **Auto-Ausfüllen**
 
 ---
 
@@ -204,4 +204,7 @@ section {
 
  2. Wenn ich kein Geld hab.
  - Ich hätte Persönlich ein Open-Source kostenlosen Passwort-Manager wie Bitwarden benutzt.
+
+ ## Danke fürs zuhören.
+
 
