@@ -4,3 +4,5 @@ Tagebuch 09.10.26
 Heute hab ich noch Informationen hinzugefügt und Meine Präsentation zu ende geschrieben jetzt muss ich es noch feinschleifen und fertig.
 Tagebuch 15.10.26
 Heute hab ich Inhaltsverzeichnis verändert und noch paar kleine Veränderungen gemacht.
+Tagesbuch 16.10.26
+Heute hab ich die Folien verkleinert.
